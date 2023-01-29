@@ -9,11 +9,11 @@ editor: visual
 Please rank *all* projects below from 1st choice to 7th choice.
 
 | Organization                                                                  | Ranking |
-|----------------------------------------------------------|--------------|
-| BlueBonnet Data                                                               |         |
-| Dance Data Project                                                            |         |
-| Birkbeck College Open Research Working Group                                  |         |
-| Candlewood Valley Trout Unlimited/Pootatuck Watershed Association             |         |
-| Cleveland Federal Savings Bank                                                |         |
-| R for the Rest of Us                                                          |         |
-| National Institute for Early Education Research (NIEER) at Rutgers University |         |
+|-------------------------------------------------------|-----------------|
+| BlueBonnet Data                                                               | 3       |
+| Dance Data Project                                                            | 6       |
+| Birkbeck College Open Research Working Group                                  | 4       |
+| Candlewood Valley Trout Unlimited/Pootatuck Watershed Association             | 1       |
+| Cleveland Federal Savings Bank                                                | 2       |
+| R for the Rest of Us                                                          | 5       |
+| National Institute for Early Education Research (NIEER) at Rutgers University | 7       |
