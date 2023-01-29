@@ -1,23 +1,25 @@
 ---
 title: "SDS 410: Project Proposal 1"
 author: Selin Kubali
-date: 01/29/23
+date: 01/29/2023
 format: pdf
 editor: source
 ---
 
 ## Sponsor
 (100 words) In your own words, provide a brief description of the project sponsor organization here.
-The organization is focused on maintaining the health of the local aquatic ecosystem and of the trout populations. 
+The organization is focused on maintaining the health of the Pootatuck watershed in Connecticut and that of the trout populations. They collect data on water temperature and quality (which includes data on conductivity, nutrients, and E. coli). They're interested in knowing what risks to ecosystem health they can find from the data, and how they can combat those risks.
 
 ## Scope
 
 (100-200 words) In your own words, describe the problem that will be addressed in this project, Also, provide a broad overview of how you might approach it. 
-I would work with the project organizers to figure out what questions they might want to ask of their data. Using their ecological knowledge and reviewing the literature would probably both be useful here. For instance, what would they expect to see from (say) E. coli data if the water quality was good? Based on that, I would identify what statistical tests would be appropriate. I would probably convert the data into a format readable by R and perform the analyses there. From the project description, I see that they are also curious about whether their sampling frequency is appropriate. I believe that I could tell them the confidence with which they are able to draw their conclusions, and they can decide whether they want to change their sampling frequency on that basis. 
+I would work with the project organizers to figure out what questions they might want to ask of their data, based on their ecological knowledge. For instance, what kind of E. coli level would concern them? Does the length of elevated risk matter? Based on that, I would identify what statistical tests would be appropriate. I would probably convert the data into a format readable by R and perform the analyses there. From the project description, I see that they are also curious about whether their sampling frequency is appropriate. I believe that I could tell them the confidence with which they are able to draw their conclusions, and they can decide whether they want to change their sampling frequency on that basis. 
 
 ## Vision
 
 (100-200 words) In  your own words, describe what might result from this project. Be sure to describe both physical outputs *and the potential broader impacts of those outputs.* (e.g. how will they address problems/better society?) In this section, also describe, how your unique skills and interests can contribute to project success.  
 
-I think the ideal result of this project will be a clear picture of the 
+The immediate result of this project will be analyses and a report contextualizing them. In a broader sense, the ideal result of this project will be a clear picture of the health of the Pootatuck watershed, plus an understanding of what data is useful to collect. If certain indicators closely follow others, then this might remove the need to track certain kinds of data. I could also inform them if their sampling practices are generating useful data and what they might need to change.
+
+I believe that I could be successful in this project because as a biology major I have some ecological knowledge and will understand if something is very strange or off about the data. I am good at thinking about data both as a statistical construct and as a reflection of real life, which means that I have a good understanding of what kinds of analyses are appropriate. Finally, I have a lot of experience with data wrangling, so I won't have too much trouble if the data is formatted or set up in a different way from what I need.
 
