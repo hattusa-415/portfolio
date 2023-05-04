@@ -1,0 +1,36 @@
+---
+title: "FinalAssessment"
+author: Selin Kubali
+output: html_document
+date: "2023-04-04"
+---
+
+### Professionalism
+A-
+I continued to be the project’s liaison with our sponsor, and I communicated with the sponsors promptly and politely in almost all cases. I attended all meetings except for the visit to Connecticut during Earth Day, since I had Collaborations during that time. I organized our Github by putting files in appropriate folders when it started to get messy. I did fail to communicate with the sponsor promptly once, when we believed we had met a deadline and he did not, and a groupmate had to answer his emails since I was working at the time.
+
+### Independent Problem-Solving
+A
+I organized our many different dataframes into one large dataframe, which required cleaning up each dataframe as concisely as possible so that they would play nice together (eg. making sure the same variable always had the same name or was at least located in the same place in the dataframe.) I uploaded water quality data, since no one else had, which required converting Excel files with multiple sheets into dataframes and understanding some of the unwritten details of how R stores datetimes. Both of these required me learning new R functions and getting more efficient in how I wrote R code. I also noticed a problem different files being ‘secretly’ dependent on each other, since we were used to running them together, and I wrote down and systematically eliminated all the dependencies - mostly by loading in data at the beginning of each file and saving it at the end, so we were drawing on an unchanged dataset that was stored outside the R environment. The biggest area where I improved was organization – I hadn’t considered before the possible issues with working on similar data in different R files in parallel. I did a decent job of organizing on the fly, but I think in the future I would like to start out with a system to avoid conflict (such as naming variables based on the files they are in).
+
+
+### Collaboration
+A
+I continued to check Slack regularly and made sure my teammates were updated on any issues. I think I improved at letting my team know what I was working on, and seeing what similar projects they could work on. I also made sure to check in to see if there were any projects my teammates were working on that I could help with. 
+
+
+### Communication
+A-
+I used Slack frequently to communicate with my team (in addition to talking to them during class) and email to communicate with the sponsor, letting him know if there is something we need from him. I did my best to communicate to the sponsor why we were using R, including sharing our Github with him and walking him through our R code while explaining what I was doing. However, I do not think he understood how R works.  
+
+### Data ethics
+I still believe this has limited applicability to our project. The means and methods by which the data are collected leave little room for concern over ethics, since the data measure water and the only human labor involved is volunteer and happens twice a year . However, halfway through the semester the sponsor became concerned with a meeting concerning the construction of a senior housing complex, and I had ethical concerns about how he approached this. He believed that the housing complex threatened trout, and though he initially phrased this as a matter of simply wanting to make sure the proper precautions were taken before building continued, he eventually revealed that his ideal was to stop housing. I am generally in favor of housing being built, so I was not comfortable with the idea of working to stop a housing project – but our sponsor could only present information at a meeting, and we controlled what that information looked like, so I decided it mattered very little. Since I only planned on graphing the temperature over time against rainfall and air temperature at two locations, I decided that my or his beliefs would have very little power to change the outcome of the meeting.
+
+
+### Project Planning
+A
+We had trouble completing our first sprint in a timely manner because we formatted it sequentially, which meant that each person had to wait for the previous person to complete their task. In the subsequent sprints we did a better job at dividing up work in a way that allowed everyone to work simultaneously. We did end up with a lot of separate files because of this, which caused some problems (as discussed in the independent problem-solving section), but was on the whole more efficient. Planning became easier later in the semester because our sponsor’s desires became more specific, so we did not have to take the additional step of figuring out how to translate his desires into tasks.
+
+### Project Execution
+A-
+We created visualizations and analyses like we originally planned to. However, we did not create pipelines or scripts that would allow our sponsor to simplify our analysis in the future. This was due to disinterest on the sponsor’s part in R. The project was not as complex as we initially planned on making it, but I believe we achieved more than our sponsor planned for and we did succeed at producing useful data.
